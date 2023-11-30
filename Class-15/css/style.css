@@ -1,0 +1,42 @@
+.my-menu:hover ul{
+    display: block;
+}
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.item{
+    padding: 0;
+}
+
+.dropdown-menu{
+    background: rgb(39, 217, 223);
+}
+
+.carousel-inner img{
+    height: 750px;
+}
+
+.b-nav{
+    background-color: aqua !important;
+}
+button{
+
+}
+.rubel{
+    text-align: center !important;
+}
+
+.rbl{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4) ), url(../img/bannar-img/b-5.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    color: blue;
+   text-align: center;
+    
+}
